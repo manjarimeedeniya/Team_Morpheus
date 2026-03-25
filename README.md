@@ -1,6 +1,6 @@
 # Weighing Scale Using Load Cells
 
-> **EN2091 Analog Project** — Department of Electronic and Telecommunication Engineering, University of Moratuwa, Sri Lanka
+**EN2091 Analog Project** — Department of Electronic and Telecommunication Engineering, University of Moratuwa, Sri Lanka
 
 ---
 
@@ -30,10 +30,8 @@ An electronic weighing scale designed and implemented using a **strain gauge loa
 
 ## 📸 Final Product
 <p align="center">
-  <img src="docs/images/final_product.jpg" alt="Weighing Scale - Final Product" width="60%"/>
+  <img src="docs/images/Final_Product.jpg" alt="Weighing Scale - Final Product" width="60%"/>
 </p>
-
-Replace the image path above with your actual photo filename after adding it to the docs/images/ folder.
 
 
 ---
