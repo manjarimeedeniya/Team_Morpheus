@@ -1,4 +1,4 @@
-# ⚖️ Weighing Scale Using Load Cells
+# Weighing Scale Using Load Cells
 
 > **EN2091 Analog Project** — Department of Electronic and Telecommunication Engineering, University of Moratuwa, Sri Lanka
 
@@ -9,8 +9,8 @@
 | Name | GitHub Link |
 |---|---|
 | Gunarathne K.T.M.B |  |
-| Jayaweera N.S |  |
-| Meedeniya M.M.H |  |
+| Jayaweera N.S | https://github.com/NisalJayaweera |
+| Meedeniya M.M.H | https://github.com/manjarimeedeniya |
 | Ranawaka R.A.C.D |  |
 
 ---
@@ -29,16 +29,11 @@ An electronic weighing scale designed and implemented using a **strain gauge loa
 ---
 
 ## 📸 Final Product
-
 <p align="center">
-  <img src=""C:\Users\USER\Pictures\Group10_Team_Morpheus_EN2091_APDF\Final Product Photo 2.jpeg"" alt="Weighing Scale - Front View" width="45%"/>
-  &nbsp;&nbsp;
-  <img src=""C:\Users\USER\Pictures\Group10_Team_Morpheus_EN2091_APDF\Final Product Photo 2.jpeg"" alt="Weighing Scale - Side View" width="45%"/>
+  <img src="docs/images/final_product.jpg" alt="Weighing Scale - Final Product" width="60%"/>
 </p>
 
-<p align="center">
-  <img src=""C:\Users\USER\Pictures\Group10_Team_Morpheus_EN2091_APDF\Final Product Photo 2.jpeg"" alt="Weighing Scale - Internal Assembly" width="60%"/>
-</p>
+Replace the image path above with your actual photo filename after adding it to the docs/images/ folder.
 
 
 ---
