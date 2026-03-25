@@ -30,7 +30,7 @@ An electronic weighing scale designed and implemented using a **strain gauge loa
 
 ## 📸 Final Product
 <p align="center">
-  <img src="docs/images/Final_Product.jpg" alt="Weighing Scale - Final Product" width="60%"/>
+  <img src="Final Product Photos/Final Product Photo 2.jpeg" alt="Weighing Scale - Final Product" width="60%"/>
 </p>
 
 
