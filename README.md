@@ -8,10 +8,10 @@
 
 | Name | GitHub Link |
 |---|---|
-| Gunarathne K.T.M.B |  |
+| Gunarathne K.T.M.B | https://github.com/ThidaswinGunarathna |
 | Jayaweera N.S | https://github.com/NisalJayaweera |
 | Meedeniya M.M.H | https://github.com/manjarimeedeniya |
-| Ranawaka R.A.C.D |  |
+| Ranawaka R.A.C.D | https://github.com/chaniruranawaka |
 
 ---
 
